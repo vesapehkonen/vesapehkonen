@@ -14,7 +14,7 @@ On my personal GitHub, I explore web development, Flask, and algorithmic project
 ---
 
 ## 🔹 Personal Projects
-- [TinyCine](https://github.com/vesapehkonen/peerstocks) – PeerStocks – FastAPI + React + OpenSearch stock comparison dashboard with multi-ticker charts (Price, P/E, EPS) and sortable summaries.  
+- [PeerStocks](https://github.com/vesapehkonen/peerstocks) – PeerStocks – FastAPI + React + OpenSearch stock comparison dashboard with multi-ticker charts (Price, P/E, EPS) and sortable summaries.  
 - [TinyCine](https://github.com/vesapehkonen/TinyCine) – Flask + TinyDB movie library app with TMDb integration.  
 - [Chatbot](https://github.com/vesapehkonen/chatbot) – Flask chatbot with pluggable LLM backends (OpenAI, local LLaMA/Mistral, remote API).  
 - [PyCoinTrader](https://github.com/vesapehkonen/PyCoinTrader) – Python trading simulator for BTC with RSI/SMA strategies and ML experiments.  
