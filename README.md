@@ -25,7 +25,7 @@ On my personal GitHub, I explore web development, Flask, and algorithmic project
 ## 🔹 Tech Stack
 **Languages & Scripting:** Python, Java, C/C++, C#, JavaScript, Bash, PowerShell  
 **Cloud & DevOps:** AWS, Ansible, Jenkins, TeamCity, Docker, Git  
-**Frameworks & APIs:** Flask, Spring Boot, Node.js, REST API  
+**Frameworks & APIs:** Flask, FastAPI, Spring Boot, Node.js, REST API  
 **Databases & Search:** Elasticsearch/OpenSearch, MongoDB, SQL  
 **Performance Tools:** Linux Perf, Async Profiler, Intel PAT, Intel Emon  
 
