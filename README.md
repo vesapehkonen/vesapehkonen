@@ -14,6 +14,7 @@ On my personal GitHub, I explore web development, Flask, and algorithmic project
 ---
 
 ## 🔹 Personal Projects
+- [Job Processing Demo](https://github.com/vesapehkonen/kube-montecarlo-jobs) – Job processing demo with background workers and cloud/Kubernetes deployment.
 - [PeerStocks](https://github.com/vesapehkonen/peerstocks) – PeerStocks – FastAPI + React + OpenSearch stock comparison dashboard with multi-ticker charts (Price, P/E, EPS) and sortable summaries.  
 - [TinyCine](https://github.com/vesapehkonen/TinyCine) – Flask + TinyDB movie library app with TMDb integration.  
 - [Chatbot](https://github.com/vesapehkonen/chatbot) – Flask chatbot with pluggable LLM backends (OpenAI, local LLaMA/Mistral, remote API).  
@@ -23,10 +24,10 @@ On my personal GitHub, I explore web development, Flask, and algorithmic project
 ---
 
 ## 🔹 Tech Stack
-**Languages & Scripting:** Python, Java, C/C++, C#, JavaScript, Bash, PowerShell  
-**Cloud & DevOps:** AWS, Ansible, Jenkins, TeamCity, Docker, Git  
+**Languages & Scripting:** Python, Java, C/C++, C#, JavaScript, Bash  
+**Cloud & DevOps:** AWS (EC2, VPC, IAM, S3, DynamoDB, SQS), Kubernetes, Terraform, Ansible, Jenkins, Docker, Git, GitHub Actions 
 **Frameworks & APIs:** Flask, FastAPI, Spring Boot, Node.js, REST API  
-**Databases & Search:** Elasticsearch/OpenSearch, MongoDB, SQL  
+**Data & Messaging:** Redis, SQL, MongoDB, OpenSearch  
 **Performance Tools:** Linux Perf, Async Profiler, Intel PAT, Intel Emon  
 
 ---
