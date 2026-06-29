@@ -13,6 +13,7 @@ Systems-focused Software Engineer with a background in backend, cloud, and OpenS
 
 ## 🔹 Personal Projects
 - [PeerStocks](https://github.com/vesapehkonen/peerstocks) – Stock comparison dashboard built with FastAPI, React, and OpenSearch.  
+- [JobRanker](https://github.com/vesapehkonen/jobranker) – Local AI-powered job ranking and application workflow tool.  
 - [Kube-MonteCarlo-Jobs](https://github.com/vesapehkonen/kube-montecarlo-jobs) – Distributed job-processing platform built on Kubernetes with queue-driven workers.
 - [TinyCine](https://github.com/vesapehkonen/TinyCine) – Flask + TinyDB movie library app with TMDb integration.  
 - [LLM Chat Integration Prototype](https://github.com/vesapehkonen/chatbot) – Flask chatbot with pluggable LLM backends (OpenAI, local LLaMA/Mistral, remote API).  
