@@ -12,7 +12,7 @@ Systems-focused Software Engineer with a background in backend, cloud, and OpenS
 ---
 
 ## 🔹 Projects
-- [JaTrail](https://github.com/vesapehkonen/jatrail) – GPS trail platform with an Android app and FastAPI web application for recording, mapping, editing, and sharing trails. [Web](https://www.jatrail.com) · [Google Play](https://play.google.com/store/apps/details?id=com.jatrail)
+- [JaTrail](https://github.com/vesapehkonen/jatrail) – GPS trail platform with Android and web apps. [Web](https://jatrail.com) · [Google Play](https://play.google.com/store/apps/details?id=com.jatrail)
 - [PeerStocks](https://github.com/vesapehkonen/peerstocks) – Stock comparison dashboard built with FastAPI, React, and OpenSearch.  
 - [JobRanker](https://github.com/vesapehkonen/jobranker) – Local AI-powered job ranking and application workflow tool.  
 - [Kube-MonteCarlo-Jobs](https://github.com/vesapehkonen/kube-montecarlo-jobs) – Distributed job-processing platform built on Kubernetes with queue-driven workers.
